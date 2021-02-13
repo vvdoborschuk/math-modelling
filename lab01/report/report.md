@@ -115,3 +115,8 @@ git push --tags
 - повторили опыт работы с системой контроля версий Git
 - изучили методологию Git Flow
 - грамотно синхронизировали работу с Github
+
+Ссылки:
+
+- YouTube видео-отчёт: [https://www.youtube.com/watch?v=pHm37x9osmw](https://www.youtube.com/watch?v=pHm37x9osmw)
+- Github: [https://github.com/wdoborschuk/math-modelling](https://github.com/wdoborschuk/math-modelling)
